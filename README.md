@@ -6,26 +6,27 @@ Hall-effect sensor, provides real-time alerts, and offers live camera feed via a
 # Hardware components
 ![image](https://github.com/user-attachments/assets/30ce8837-c021-4927-b3f8-a9e909297428) 
 
-Hall Effect Sensor
+->Hall Effect Sensor
 
 
 ![image](https://github.com/user-attachments/assets/c669cd63-336c-4ab8-808b-78594214be1b)
 
-Arduino Uno
+->Arduino Uno
 
 
-Additional components include:
+->Additional components include:
 
-LEDs
+  LEDs
 
-Camera
+  Camera
 
-Buzzer
+  Buzzer
 
-Jumper Wires
+  Jumper Wires
 
 # Software components
 Arduino IDE
+
 Flask for live camera feed
 
 # Prototype
